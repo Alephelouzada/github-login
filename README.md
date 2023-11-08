@@ -1,5 +1,5 @@
 # github-login
-github-login
+
 
 # Clone-Github-login
 
@@ -16,7 +16,6 @@ O principal objetivo deste projeto é criar uma página inicial atraente e funci
 - HTML: Para a estrutura da página.
 - CSS: Para o estilo e layout da página.
 - Git e GitHub: Para o controle de versão e hospedagem do código.
-- Figma: Para a clonagem do design.
 - Vercel: Para implantação e hospedagem.
 
 ## Desafios
@@ -26,15 +25,11 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 - Organização eficiente de elementos em linhas e colunas, visando proporcionar uma experiência de usuário agradável.
 - Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
-## Interface
-
-Você pode conferir o design da interface no [link do Figma]() para ter uma visão detalhada de como o projeto se parece.
-
 
 ## Deploy
 
-O projeto está disponível em () para visualização.
+O projeto está disponível em (https://github-three-tawny.vercel.app/) para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao Clone-Github-login, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
 Página Inicial - Site Sistok
