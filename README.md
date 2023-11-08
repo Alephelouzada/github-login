@@ -15,7 +15,7 @@ O principal objetivo deste projeto é criar uma página inicial atraente e funci
 - HTML: Para a estrutura da página.
 - CSS: Para o estilo e layout da página.
 - Git e GitHub: Para o controle de versão e hospedagem do código.
-- Vercel: Para implantação e hospedagem.
+  
 
 ## Desafios
 
